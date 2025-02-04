@@ -7,4 +7,4 @@ Provided above is a link to an article about how developers can setup express an
 I find this article interesting because I come back to it once in a while whenever I am developing and deploying an express app to the open internet. I have very much liked the conciseness and clarity of this article and I believe it is highly beneficial to the developer community.
 
 ## Comment
-I didn't now about the serverless architecutre before reading the article. I did some research and liked the concept of a server that doesn't run 24/7 in the background, which can be a cost saving measurment in multiple scenarios.
+I didn't know about the serverless architecutre before reading the article. I did some research and liked the concept of a server that doesn't run 24/7 in the background, which can be a cost saving measurment in multiple scenarios.
